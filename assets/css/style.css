@@ -19,6 +19,15 @@ fieldset{
     border-color: black;
     width: auto;
 }
+.text-grey{
+    color: grey;
+}
+.text-size{
+    size:"xx-large";
+}
+legend{
+    color: red;
+}
 header{
     border-style: ridge;
     border-width: 10px;
