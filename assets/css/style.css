@@ -4,3 +4,6 @@ body{
 p{
     font-style: italic;
 }
+emphasis{
+    font-weight: bolder;
+}
