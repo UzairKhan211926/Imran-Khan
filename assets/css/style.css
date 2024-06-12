@@ -1,12 +1,5 @@
 body{
     background-color:black;
-    color: black;
-}
-p{
-    font-size: larger;
-}
-li{
-    font-size: larger;
 }
 emphasis{
     font-style: italic;
@@ -20,19 +13,16 @@ fieldset{
     width: auto;
     background-color:lightgrey;
     color:black;
+    font-size: larger;
 }
 .text-grey{
     color: grey;
 }
 .text-size{
-    size:"xx-large";
+    size: 40px;
 }
 style{
     font-size:larger
-}
-legend{
-    color: red;
-    font-style: italic;
 }
 header{
     border-style: ridge;
@@ -44,5 +34,5 @@ header{
 }
 .h1-outer-fieldset{
     text-align: center;
-    color: red;
+    color: white;
 }
