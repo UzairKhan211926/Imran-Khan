@@ -9,7 +9,8 @@ li{
     font-size: larger;
 }
 emphasis{
-    font-weight: bolder italic;
+    font-style: italic;
+    font-weight: bold;
     color: rgb(55, 161, 87);
     font-size: x-large;
 }
@@ -24,8 +25,12 @@ fieldset{
 .text-size{
     size:"xx-large";
 }
+style{
+    font-size:larger
+}
 legend{
     color: red;
+    font-style: italic;
 }
 header{
     border-style: ridge;
