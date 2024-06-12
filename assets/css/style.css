@@ -3,14 +3,13 @@ body{
     color: white;
 }
 p{
-    font-style: italic;
     font-size: larger;
 }
 li{
     font-size: larger;
 }
 emphasis{
-    font-weight: bolder;
+    font-weight: bolder italic;
     color: rgb(55, 161, 87);
     font-size: x-large;
 }
