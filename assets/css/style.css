@@ -1,6 +1,6 @@
 body{
     background-color:black;
-    color: white;
+    color: black;
 }
 p{
     font-size: larger;
@@ -11,13 +11,15 @@ li{
 emphasis{
     font-style: italic;
     font-weight: bold;
-    color: rgb(55, 161, 87);
+    color: rgb(47, 109, 66);
     font-size: x-large;
 }
 fieldset{
     border-width: 3px;
     border-color: black;
     width: auto;
+    background-color:lightgrey;
+    color:black;
 }
 .text-grey{
     color: grey;
@@ -39,4 +41,8 @@ header{
     text-align: center;
     background-color: black;
     color: white;
+}
+.h1-outer-fieldset{
+    text-align: center;
+    color: red;
 }
