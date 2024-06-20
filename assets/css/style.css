@@ -19,8 +19,7 @@ body {
     text-align: center;
 }
 .container >h2{
-    color: black;
-    
+    color: black;  
 }
 
 h1{
@@ -70,27 +69,6 @@ section {
     text-align: center;
     border: #000000;
     border-style:groove;
-}
-
-.background-pti {
-    background-color: silver;
-    padding: 20px;
-    max-width: auto;
-    text-align: center;
-}
-
-.background-namal {
-    background-color: silver;
-    padding: 20px;
-    max-width: auto;
-    text-align: center;
-}
-
-.background-hospital {
-    background-color: silver;
-    padding: 20px;
-    max-width: auto;
-    text-align: center;
 }
 
 .background-1 {
