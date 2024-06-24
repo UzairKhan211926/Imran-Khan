@@ -1,3 +1,4 @@
+/*settings for body*/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,7 +6,8 @@ body {
     background-color: rgba(234, 242, 245, 0.336);
 }
 
-.container {
+/*styling setting for main content*/
+.main-content {
     max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
@@ -13,12 +15,14 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
-.container >h1{
+
+/*stylings for h1/h2 inside maine content*/
+.main-content >h1{
     color: #314f63;
     text-decoration: underline;
     text-align: center;
 }
-.container >h2{
+.main-content >h2{
     color: black;  
 }
 
@@ -32,6 +36,7 @@ header {
     padding: 10px 0;
 }
 
+/*sizing img in header*/
 header img {
     max-width: 100%;
     height: auto;
@@ -39,6 +44,7 @@ header img {
     margin: 0 auto;
 }
 
+/*fixing mav*/
 nav {
     background-color: #333;
     overflow: hidden;
@@ -64,6 +70,7 @@ section {
     background-color: #f9f9f9;
 }
 
+/*banner settings*/
 .background-imran {
     background-color: silver;
     padding: 20px;
@@ -73,15 +80,10 @@ section {
     border-style:groove;
 }
 
+/*background highlgihts for text in maine content*/
 .background-lightblue {
     background-color: #b7e1fc;
     padding: auto;
-}
-
-.background-ref {
-    background-color: #333;
-    padding: auto;
-    color: whitesmoke;
 }
 
 .background-silver {
@@ -89,6 +91,12 @@ section {
     padding: auto;
 }
 
+.background-ref {
+    background-color: #e2e2e2;
+    padding: auto;
+}
+
+/*fixing footer and etc*/
 footer {
     text-align: center;
     padding: 10px 0;
@@ -97,4 +105,14 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+/*sizing and fixing video on left side of maine content*/
+.video{
+    margin: 20px auto;
+    padding: 20px;
+    position: fixed;
+    background-color: black;
+    max-width: auto;
+    border-style:groove;
 }
