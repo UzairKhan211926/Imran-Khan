@@ -219,17 +219,10 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
-* ### Content
-
-    - The content for the History, Architect and Present Day was taken from Red Fort's [Wikipedia](https://en.wikipedia.org/wiki/Red_Fort) and [Britannica](https://www.britannica.com/topic/Red-Fort) entries.
-    - The content for the [Qutab Minar](https://delhitourism.gov.in/delhitourism/tourist_place/qutab_minar.jsp) and [Jama Masjid](https://delhitourism.gov.in/delhitourism/tourist_place/jama_masjid.jsp) were taken from the Delhi Tourism website.
-    - The content for the India Gate was taken from the [IncredibleIndia](https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/delhi/india-gate.html) website.
-    - The content for the Humayun's Tomb was taken from the [WHC-UNESCO](https://whc.unesco.org/en/list/232/) website.
-
-* ### Media
-    -   All the images were download from google.
-    -   All the videos were download from YT.
-    -   All the text within main body was generated using ChatGPT.
+* ### Media & Content
+-   All the images were download from google.
+-   All the videos were download from YT.
+-   All the text within main body was generated using ChatGPT.
 
 * ### Code
 
