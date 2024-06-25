@@ -115,60 +115,60 @@ The home page does not contain a map due to privacy.
 <br>
 
 #####   2.  Main content on PTI page:
-    At first you will notice a PTI banner within the main content taken from it's original homepage.
-<br>
-    On PTI page, it presents a comprehensive overview of PTI, covering its founding principles, key
-    milestones, leadership, policies, and challenges. It highlights PTI's vision for a corruption-free
-    Pakistan, its contributions to the political landscape, and its ongoing efforts to address economic
-    and social issues. The content also emphasizes PTI's focus on youth engagement and international relations,
-    portraying the party as a significant force in Pakistan's political arena.
+ At first you will notice a PTI banner within the main content taken from it's original homepage.
 
-    It also contains a map of head office address. A similar map is also added for Namal College and Shaukat
-    Khanum Cancer Memorial Hospital.
+On PTI page, it presents a comprehensive overview of PTI, covering its founding principles, key
+milestones, leadership, policies, and challenges. It highlights PTI's vision for a corruption-free
+Pakistan, its contributions to the political landscape, and its ongoing efforts to address economic
+and social issues. The content also emphasizes PTI's focus on youth engagement and international relations,
+portraying the party as a significant force in Pakistan's political arena.
+
+It also contains a map of head office address. A similar map is also added for Namal College and Shaukat
+Khanum Cancer Memorial Hospital.
 
 <br>
 <img src="./assets/images/pti banner new.jpeg">
 <br>
 
 #####   3.  Main content on Namal page:
-    The website presents a comprehensive overview of Namal College, highlighting its foundation, vision, mission,
-    and significant achievements. It emphasizes the college's commitment to providing quality education,
-    fostering research and innovation, and contributing to socio-economic development. The information underscores
-    Namal College’s role in empowering youth and making higher education accessible to students from diverse
-    backgrounds, particularly those from underprivileged areas. The content reflects the college's ongoing efforts
-    to expand its academic programs and enhance its infrastructure to continue serving as a beacon of hope and
-    progress in Pakistan's educational sector.
+The website presents a comprehensive overview of Namal College, highlighting its foundation, vision, mission,
+and significant achievements. It emphasizes the college's commitment to providing quality education,
+fostering research and innovation, and contributing to socio-economic development. The information underscores
+Namal College’s role in empowering youth and making higher education accessible to students from diverse
+backgrounds, particularly those from underprivileged areas. The content reflects the college's ongoing efforts
+to expand its academic programs and enhance its infrastructure to continue serving as a beacon of hope and
+progress in Pakistan's educational sector.
 
 <br>
 <img src="./assets/images/namal banner.jpeg">
 <br>
         
 #####   4.  Main content on SKCMH page:
-    The website offers a comprehensive overview of Shaukat Khanum Memorial Cancer Hospital and Research Centre,
-    detailing its foundation, mission, and significant milestones. It highlights the hospital's extensive
-    infrastructure and services, emphasizing its role in providing high-quality, affordable cancer care. The
-    content underscores the hospital’s commitment to research, community outreach, and continuous expansion to
-    meet the growing healthcare needs in Pakistan. It also acknowledges the challenges the hospital faces and
-    outlines its future plans for further development and impact. The information reflects SKMCH&RC’s status as
-    a leading healthcare institution dedicated to improving cancer care and accessibility for all, particularly
-    those from underserved communities.
+The website offers a comprehensive overview of Shaukat Khanum Memorial Cancer Hospital and Research Centre,
+detailing its foundation, mission, and significant milestones. It highlights the hospital's extensive
+infrastructure and services, emphasizing its role in providing high-quality, affordable cancer care. The
+content underscores the hospital’s commitment to research, community outreach, and continuous expansion to
+meet the growing healthcare needs in Pakistan. It also acknowledges the challenges the hospital faces and
+outlines its future plans for further development and impact. The information reflects SKMCH&RC’s status as
+a leading healthcare institution dedicated to improving cancer care and accessibility for all, particularly
+those from underserved communities.
 
 <br>
 <img src="./assets/images/hospital banner.png">
 <br>
 
 ####    4.  Map Section
-    I have also added 3 maps to pin point the location of institutees founded by Imran Khan.
-    -   Head Secetrait of PTI
-    -   Namal College
-    -   Shaukat Khanum Cancer Memorial Hospital
+I have also added 3 maps to pin point the location of institutees founded by Imran Khan.
+-   Head Secetrait of PTI
+-   Namal College
+-   Shaukat Khanum Cancer Memorial Hospital
 
 <br>
 <img src="./assets/readme/pti map.jpg">
 <br>
 
 ####    5. Footer Section
-    -   It is dispalyed on all the pages of the website.
+-   It is dispalyed on all the pages of the website.
         
 <br>
 <img src="./assets/images-readme-file/footer.JPG">
@@ -181,15 +181,15 @@ The home page does not contain a map due to privacy.
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Google Fonts:](https://fonts.google.com/)
+-   [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Quintessential', 'Roboto Condensed' and 'Zen Kaku Gothic Antique' font into the style.css file which is used on all pages throughout the project.
-2. [Font Awesome:](https://fontawesome.com/)
+-   [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-3. [Git](https://git-scm.com/)
+-   [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-4. [GitHub:](https://github.com/)
+-   [GitHub:](https://github.com/)
     - GitHub is used to store the project's code after being pushed from Git.
-5. [Balsamiq:](https://balsamiq.com/)
+-   [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
