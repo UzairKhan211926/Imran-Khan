@@ -40,26 +40,26 @@ the maine content: lightblue and silver. Ref block is grey, background is white 
 
 #### 2. Typography
 
-##### - Readability and Accessibility:
+#####   Readability and Accessibility:
 -   Arial is a widely recognized and legible font. It ensures that the content on the website
 is easy to read for most users, including those with visual impairments or using different
 devices.
 
-##### - Consistency and Universality:
+#####   Consistency and Universality:
 -   Arial is a default font available on most operating systems and browsers. This ensures
 consistent rendering across different platforms, minimizing the risk of font rendering
 issues that might arise with less universally supported fonts.
 
-##### - Professional and Modern Appearance:
+#####   Professional and Modern Appearance:
 -   Arial is a sans-serif font known for its clean and modern appearance. It conveys a professional
 look suitable for a website dedicated to a public figure like Imran Khan.
     
-##### - Fallback for Compatibility:
+#####   Fallback for Compatibility:
 -   Using "sans-serif" as a fallback ensures that if Arial is not available on a user's system, the
 browser will default to another sans-serif font that is available. This maintains the overall
 design integrity and readability of the website.
 
-##### - Load Time Considerations:
+#####   Load Time Considerations:
 -   Arial is a commonly used font and may already be cached in users' browsers, potentially reducing
 load times compared to less common or custom fonts.
 
@@ -124,7 +124,7 @@ The home page does not contain a map due to privacy.
 <img src="./assets/images/pti banner new.jpeg">
 <br>
 
-##### - Main content on Namal page:
+#####   Main content on Namal page:
     The website presents a comprehensive overview of Namal College, highlighting its foundation, vision, mission,
     and significant achievements. It emphasizes the college's commitment to providing quality education,
     fostering research and innovation, and contributing to socio-economic development. The information underscores
@@ -136,7 +136,7 @@ The home page does not contain a map due to privacy.
 <img src="./assets/images/namal banner.jpeg">
 <br>
         
-##### - Main content on SKCMH page:
+#####   Main content on SKCMH page:
     The website offers a comprehensive overview of Shaukat Khanum Memorial Cancer Hospital and Research Centre, detailing its foundation, mission, and significant milestones. It highlights the hospital's extensive infrastructure and services, emphasizing its role in providing high-quality, affordable cancer care. The content underscores the hospital’s commitment to research, community outreach, and continuous expansion to meet the growing healthcare needs in Pakistan. It also acknowledges the challenges the hospital faces and outlines its future plans for further development and impact. The information reflects SKMCH&RC’s status as a leading healthcare institution dedicated to improving cancer care and accessibility for all, particularly those from underserved communities.
 <br>
 <img src="./assets/images/hospital banner.png">
