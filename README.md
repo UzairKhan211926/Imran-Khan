@@ -39,8 +39,6 @@ the maine content: lightblue and silver. Ref block is grey, background is white 
 - Font for body is Arial with fall back on sans-serif.
 
 #### 2. Typography
-Using Arial with a fallback on sans-serif fonts on a website about Imran Khan can be
-a practical choice for several reasons:
 
 ##### - Readability and Accessibility:
 Arial is a widely recognized and legible font. It ensures that the content on the website
@@ -83,10 +81,10 @@ for a website about Imran Khan or any similar public figure.
 <br>
 
 #### 2. The Landing Page
-    - The landing page image shows a banner with Imran Khan's photo and a flag of Pakistan behind it. 
-    This is also a corelates to Imran and his passion for the nation. Home page also contains a
-    black 'n' white image of Imran Khan with his name for the users who do not know Imran Khan or his
-    name.
+The landing page image shows a banner with Imran Khan's photo and a flag of Pakistan behind it. 
+This is also a corelates to Imran and his passion for the nation. Home page also contains a
+black 'n' white image of Imran Khan with his name for the users who do not know Imran Khan or his
+name.
 
 <br>
 <img src="./assets/images/banner.jpg">
