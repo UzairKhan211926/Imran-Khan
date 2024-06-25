@@ -16,11 +16,11 @@
 
 ### UI/UX:
 
-    1. #### Colour Scheme
+#### 1. Colour Scheme
         1. This website has a contant color themes running through all the links. e.g., in the maine content: lightblue and silver. Ref block is grey, background is white throughout.
         2. Font for body is Arial with fall back on sans-serif.
 
-    2. #### Typography
+#### 2. Typography
         Using Arial with a fallback on sans-serif fonts on a website about Imran Khan can be a practical choice for several reasons:
 
         1. Readability and Accessibility: Arial is a widely recognized and legible font. It ensures that the content on the website is easy to read for most users, including those with visual impairments or using different devices.
@@ -33,7 +33,7 @@
 
 ### Existing Features:
 
-    1. #### Navigation Bar 
+#### 1. Navigation Bar 
     
        -   Along with the name of the website, the navigation bar includes the links to all the pages of the website i.e., Home, PTI, SKCMH & Namal College.
        -   Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website. For user feasibility, I also fixed the nav bar so users can switch between the links without the need to scroll up to the top everytime.
@@ -42,7 +42,7 @@
     <img src="./assets/readme/navbar.jpg" alt="Image of the Navigation Bar">
     <br>
 
-    2. #### The Landing Page Image
+#### 2. The Landing Page Image
     
        - The landing page image shows a banner with Imran Khan's photo and a flag of Pakistan behind it. This is also a corelates to Imran and his passion for the nation. Home page also contains a black 'n' white image of Imran Khan with his name for the users who do not know Imran Khan or his name.
 
