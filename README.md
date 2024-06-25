@@ -4,11 +4,17 @@
 
     A website about Imran Khan was driven by various motivations:
 
-    1. Educational Resource: You aim to provide comprehensive information and insights about Imran Khan's life, career, and political impact, serving as a valuable resource for those interested in his legacy.
-    2. Political Engagement: You want to foster political discussion and engagement by highlighting Imran Khan's policies, achievements, and contributions to Pakistan's socio-political landscape.
-    3. Fan Base Connection: As a supporter, you wish to connect with like-minded individuals and build a community that shares admiration for Imran Khan's leadership and vision.
-    4. Historical Documentation: The website serves to document and preserve significant events and milestones from Imran Khan's life and career, offering an archive for future reference.
-    5. Public Awareness: You aim to raise awareness and educate the public on Imran Khan's initiatives and the broader implications of his work, promoting a better understanding of his role in national and international contexts.
+    1. Educational Resource: You aim to provide comprehensive information and insights about 
+    Imran Khan's life, career, and political impact, serving as a valuable resource for those interested in his legacy.
+    2. Political Engagement: You want to foster political discussion and engagement by 
+    highlighting Imran Khan's policies, achievements, and contributions to Pakistan's socio-political landscape.
+    3. Fan Base Connection: As a supporter, you wish to connect with like-minded individuals 
+    and build a community that shares admiration for Imran Khan's leadership and vision.
+    4. Historical Documentation: The website serves to document and preserve significant events 
+    and milestones from Imran Khan's life and career, offering an archive for future reference.
+    5. Public Awareness: You aim to raise awareness and educate the public on Imran Khan's 
+    initiatives and the broader implications of his work, promoting a better understanding of 
+    his role in national and international contexts.
 
 ![Image of Responsive Website in different devices](./assets/readme/multidevice-view.jpg)
 
@@ -17,26 +23,43 @@
 ### UI/UX:
 
 #### 1. Colour Scheme
-        1. This website has a contant color themes running through all the links. e.g., in the maine content: lightblue and silver. Ref block is grey, background is white throughout.
+        1. This website has a contant color themes running through all the links. e.g., in 
+        the maine content: lightblue and silver. Ref block is grey, background is white throughout.
         2. Font for body is Arial with fall back on sans-serif.
 
 #### 2. Typography
-        Using Arial with a fallback on sans-serif fonts on a website about Imran Khan can be a practical choice for several reasons:
+        Using Arial with a fallback on sans-serif fonts on a website about Imran Khan can be
+         a practical choice for several reasons:
 
-        1. Readability and Accessibility: Arial is a widely recognized and legible font. It ensures that the content on the website is easy to read for most users, including those with visual impairments or using different devices.
-        2. Consistency and Universality: Arial is a default font available on most operating systems and browsers. This ensures consistent rendering across different platforms, minimizing the risk of font rendering issues that might arise with less universally supported fonts.
-        3. Professional and Modern Appearance: Arial is a sans-serif font known for its clean and modern appearance. It conveys a professional look suitable for a website dedicated to a public figure like Imran Khan.
-        4. Fallback for Compatibility: Using "sans-serif" as a fallback ensures that if Arial is not available on a user's system, the browser will default to another sans-serif font that is available. This maintains the overall design integrity and readability of the website.
-        5. Load Time Considerations: Arial is a commonly used font and may already be cached in users' browsers, potentially reducing load times compared to less common or custom fonts.
+        1. Readability and Accessibility: Arial is a widely recognized and legible font. It
+         ensures that the content on the website is easy to read for most users, including 
+         those with visual impairments or using different devices.
+        2. Consistency and Universality: Arial is a default font available on most operating 
+        systems and browsers. This ensures consistent rendering across different platforms, 
+        minimizing the risk of font rendering issues that might arise with less universally 
+        supported fonts.
+        3. Professional and Modern Appearance: Arial is a sans-serif font known for its clean 
+        and modern appearance. It conveys a professional look suitable for a website dedicated 
+        to a public figure like Imran Khan.
+        4. Fallback for Compatibility: Using "sans-serif" as a fallback ensures that if Arial 
+        is not available on a user's system, the browser will default to another sans-serif font
+         that is available. This maintains the overall design integrity and readability of the website.
+        5. Load Time Considerations: Arial is a commonly used font and may already be cached in users' 
+        browsers, potentially reducing load times compared to less common or custom fonts.
 
-        In summary, choosing Arial with a fallback on sans-serif fonts strikes a balance between readability, accessibility, compatibility, and aesthetic appeal, making it a sensible choice for a website about Imran Khan or any similar public figure.
+        In summary, choosing Arial with a fallback on sans-serif fonts strikes a balance between 
+        readability, accessibility, compatibility, and aesthetic appeal, making it a sensible choice 
+        for a website about Imran Khan or any similar public figure.
 
 ### Existing Features:
 
 #### 1. Navigation Bar 
     
-       -   Along with the name of the website, the navigation bar includes the links to all the pages of the website i.e., Home, PTI, SKCMH & Namal College.
-       -   Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website. For user feasibility, I also fixed the nav bar so users can switch between the links without the need to scroll up to the top everytime.
+       -   Along with the name of the website, the navigation bar includes the links to all the pages 
+       of the website i.e., Home, PTI, SKCMH & Namal College.
+       -   Through the navigation bar, the user can easily move around and take full advantage of all 
+       the features provided by the website. For user feasibility, I also fixed the nav bar so users 
+       can switch between the links without the need to scroll up to the top everytime.
 
     <br>
     <img src="./assets/readme/navbar.jpg" alt="Image of the Navigation Bar">
@@ -44,14 +67,17 @@
 
 #### 2. The Landing Page Image
     
-       - The landing page image shows a banner with Imran Khan's photo and a flag of Pakistan behind it. This is also a corelates to Imran and his passion for the nation. Home page also contains a black 'n' white image of Imran Khan with his name for the users who do not know Imran Khan or his name.
+       - The landing page image shows a banner with Imran Khan's photo and a flag of Pakistan behind it. 
+       This is also a corelates to Imran and his passion for the nation. Home page also contains a 
+       black 'n' white image of Imran Khan with his name for the users who do not know Imran Khan or his 
+       name.
 
     <br>
     <img src="./assets/images/banner.jpg">
     <img src="./assets/images/icon.png">
     <br>
 
-    3. #### Information Section
+#### 4. Information Section
 
         - Main content on Home page:
         Here are some key points that a visitor would likely gather:
