@@ -53,23 +53,40 @@
 
    3. #### Information Section
 
-        - History:
-            - This information card serves as an introductory section for the visitors who can familiarise themselves with the monument, by gaining a brief insight into its history.
+        - Main content on Home page:
+            Here are some key points that a visitor would likely gather:
+
+            -Personal Life.
+            -Early Life and Education.
+            -Cricketing Career.
+            -Philanthropy:
+            -Political Career:
             <br>
-            <img src="./assets/images-readme-file/history card.JPG">
+                These points provide a comprehensive overview of Imran Khan's life, spanning from his early days to his achievements in cricket, philanthropy, and politics. They highlight his contributions and impact in various fields throughout his career.
+            <br>
+            The home page does not contain a map due to privacy.
             <br>
 
-        - Architecture:
-            - This information card provides a brief explanation of the architectural inspirations for the monument.
-            - Some visitors are more interested in ancient architecture and this section caters to those needs of the users.
+        - Main content on PTI page:
+            At first you will notice a PTI banner within the main content taken from it's original homepage.
             <br>
-            <img src="./assets/images-readme-file/architecture card.JPG">
+            On PTI page, it presents a comprehensive overview of PTI, covering its founding principles, key milestones, leadership, policies, and challenges. It highlights PTI's vision for a corruption-free Pakistan, its contributions to the political landscape, and its ongoing efforts to address economic and social issues. The content also emphasizes PTI's focus on youth engagement and international relations, portraying the party as a significant force in Pakistan's political arena.
+            It also contains a map of head office address. A similar map is also added for Namal College and Shokat Khanum Cancer Memorial Hospital.
+            <br>
+            <img src="./assets/images/pti banner new.jpeg">
+            <img src="./assets/readme/pti map.jpg">
             <br>
 
-        - Present Day:
-            - This information card provides the present-day scenario of the monument, the changes brought to the place and how it is celebrated in these times.
+        - Main content on Namal page:
+            - The website presents a comprehensive overview of Namal College, highlighting its foundation, vision, mission, and significant achievements. It emphasizes the college's commitment to providing quality education, fostering research and innovation, and contributing to socio-economic development. The information underscores Namal College’s role in empowering youth and making higher education accessible to students from diverse backgrounds, particularly those from underprivileged areas. The content reflects the college's ongoing efforts to expand its academic programs and enhance its infrastructure to continue serving as a beacon of hope and progress in Pakistan's educational sector.
             <br>
-            <img src="./assets/images-readme-file/present day.JPG">
+            <img src="./assets/images/namal banner.jpeg">
+            <br>
+        
+        - Main content on SKCMH page:
+            - The website offers a comprehensive overview of Shaukat Khanum Memorial Cancer Hospital and Research Centre, detailing its foundation, mission, and significant milestones. It highlights the hospital's extensive infrastructure and services, emphasizing its role in providing high-quality, affordable cancer care. The content underscores the hospital’s commitment to research, community outreach, and continuous expansion to meet the growing healthcare needs in Pakistan. It also acknowledges the challenges the hospital faces and outlines its future plans for further development and impact. The information reflects SKMCH&RC’s status as a leading healthcare institution dedicated to improving cancer care and accessibility for all, particularly those from underserved communities.
+            <br>
+            <img src="./assets/images/hospital banner.png">
             <br>
 
    4. #### Visit Us Section
