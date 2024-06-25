@@ -2,42 +2,53 @@
 
 [View The Live Project Here](https://uzairkhan211926.github.io/Imran-Khan/)
 
-This is a promotional website for the monument Red Fort, situated in Delhi, India, to boost Delhi Tourism. 
-This website aims at providing basic information about the fort, its location and entices the tourists to visit. 
-It also aims at easing the tour booking process for the visitors by providing an easy-to-fill form and avail the service of guided tour for a more interactive and educational experience.
+    A website about Imran Khan was driven by various motivations:
 
-![Image of Responsive Website in different devices](./assets/images-readme-file/amiresponsive.JPG)
+    1. Educational Resource: You aim to provide comprehensive information and insights about Imran Khan's life, career, and political impact, serving as a valuable resource for those interested in his legacy.
+    2. Political Engagement: You want to foster political discussion and engagement by highlighting Imran Khan's policies, achievements, and contributions to Pakistan's socio-political landscape.
+    3. Fan Base Connection: As a supporter, you wish to connect with like-minded individuals and build a community that shares admiration for Imran Khan's leadership and vision.
+    4. Historical Documentation: The website serves to document and preserve significant events and milestones from Imran Khan's life and career, offering an archive for future reference.
+    5. Public Awareness: You aim to raise awareness and educate the public on Imran Khan's initiatives and the broader implications of his work, promoting a better understanding of his role in national and international contexts.
+
+    ![Image of Responsive Website in different devices](./assets/readme/multidevice-view.jpg)
 
 ## Features:
 
-   ### UI/UX:
+### UI/UX:
 
-   - #### Colour Scheme
-      1. The two main colours used are Mardi Gras and Pomegranate Red.
-      2. The information card colours are Anti-Flash White and Light Gray to contrast the dark background of the webpage, while the text uses darker shade of gray to pop out.
+#### Colour Scheme
+    1. This website has a contant color themes running through all the links. e.g., in the maine content: lightblue and silver. Ref block is grey, background is white throughout.
+    2. Font for body is Arial with fall back on sans-serif.
 
-   - #### Typography
-      1.  The Zen Kaku Gothic Antique font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header uses Roboto condensed font with sans-serif as backup and the semi-headings of the webpage and the information cards use Quintessential font with cursive as the backup font.
-      2. The Zen Kaku font gives the heading a very sober and decent appearance, while the Quintessential font for semi-headers provide a classic feel to the website, complimenting the objctive of the webpage.
-      3. The body font of Roboto condensed is easy to read and is easy on eyes.
-   
-   ### Existing Features:
+#### Typography
+    Using Arial with a fallback on sans-serif fonts on a website about Imran Khan can be a practical choice for several reasons:
+
+    1. Readability and Accessibility: Arial is a widely recognized and legible font. It ensures that the content on the website is easy to read for most users, including those with visual impairments or using different devices.
+    2. Consistency and Universality: Arial is a default font available on most operating systems and browsers. This ensures consistent rendering across different platforms, minimizing the risk of font rendering issues that might arise with less universally supported fonts.
+    3. Professional and Modern Appearance: Arial is a sans-serif font known for its clean and modern appearance. It conveys a professional look suitable for a website dedicated to a public figure like Imran Khan.
+    4. Fallback for Compatibility: Using "sans-serif" as a fallback ensures that if Arial is not available on a user's system, the browser will default to another sans-serif font that is available. This maintains the overall design integrity and readability of the website.
+    5. Load Time Considerations: Arial is a commonly used font and may already be cached in users' browsers, potentially reducing load times compared to less common or custom fonts.
+
+    In summary, choosing Arial with a fallback on sans-serif fonts strikes a balance between readability, accessibility, compatibility, and aesthetic appeal, making it a sensible choice for a website about Imran Khan or any similar public figure.
+
+### Existing Features:
 
    1. #### Navigation Bar 
     
-       -   Along with the name of the website, the navigation bar includes the links to all the pages of the website, Home, Other Places and Book a Tour. This is featured on all the pages of the website.
-       -   Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website.
+       -    Along with the name of the website, the navigation bar includes the links to all the pages of the website i.e., Home, PTI, SKCMH & Namal College.
+       -   Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website. For user feasibility, I also fixed the nav bar so users can switch between the links without the need to scroll up to the top everytime.
 
         <br>
-        <img src="./assets/images-readme-file/nav bar.JPG" alt="Image of the Navigation Bar">
+        <img src="./assets/readme/navbar.jpg" alt="Image of the Navigation Bar">
         <br>
 
    2. #### The Landing Page Image
     
-       - The landing page image shows the monument from the front, hence visually engaging the visitors on the website.
+       - The landing page image shows a banner with Imran Khan's photo and a flag of Pakistan behind it. This is also a corelates to Imran and his passion for the nation. Home page also contains a black 'n' white image of Imran Khan with his name for the users who do not know Imran Khan or his name.
 
         <br>
-        <img src="./assets/images/banner-edit.jpg">
+        <img src="./assets/images/banner.jpg">
+        <img src="./assets/images/icon.png">
         <br>
 
    3. #### Information Section
