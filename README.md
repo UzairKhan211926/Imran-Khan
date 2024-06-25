@@ -178,7 +178,8 @@ I have also added 3 maps to pin point the location of institutees founded by Imr
 ### Frameworks, Libraries & Programs Used
 
 -   [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Quintessential', 'Roboto Condensed' and 'Zen Kaku Gothic Antique' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Quintessential', 'Roboto Condensed' and 'Zen Kaku Gothic Antique'
+    font into the style.css file which is used on all pages throughout the project.
 -   [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 -   [Git](https://git-scm.com/)
@@ -189,19 +190,32 @@ I have also added 3 maps to pin point the location of institutees founded by Imr
     - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
-The website has been tested on different devices and screen sizes, eg. a 21.5inch monitor, 15inch laptop screen, iPad and Android devices. The website runs smoothly and generates appropriate results without any issues. The hover effect on information cards work properly on the computer, the links take you to appropriate pages and the submit button on the form page takes you to the form-dump page with the proper message for submission displayed. The social media links in the footer open the associated pages in new tab, as intended.
+The website has been tested on different devices and screen sizes, eg. a 21.5inch monitor, 15inch laptop screen,
+iPad and Android devices. The website runs smoothly and generates appropriate results without any issues. The
+hover effect on information cards work properly on the computer, the links take you to appropriate pages and the
+submit button on the form page takes you to the form-dump page with the proper message for submission displayed.
+The social media links in the footer open the associated pages in new tab, as intended.
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure
+there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2F)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+-   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+-   [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2F)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+-   [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.<br>
 
 ![Lighthouse Score](./assets/images-readme-file/Light-house.JPG)
 
 ## Known Bugs
-On some iPhone devices, the buttons on the Form page do not display properly. This is mostly due to the higher pixel density on iPhones. Attempted to resolve this by using more media queries with different widths and webkit device pixel ratios, but it didn't work. It's difficult to properly fix this issue as it displays properly on Chrome and Firefox's dev tools with simulated mobile screens, including iPhone screens. However, upon deploying and opening the website on the actual iPhone device itself, it shows issues. This will need further investigation. No other known bugs were found after numerous testings.
+Some iPhone devices are having trouble displaying buttons correctly on a specific form page. This issue seems to
+be linked to the higher pixel density on iPhones. Even though adjustments were made using additional media queries
+for different screen widths and WebKit device pixel ratios, the problem persists. Interestingly, the display looks
+fine when tested on Chrome and Firefox's developer tools using simulated mobile screens, including those mimicking
+iPhones. However, once the website is deployed and accessed on an actual iPhone, the issue arises again. This
+discrepancy means that the problem needs more investigation. Other than this, no other bugs have been identified
+after extensive testing.
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps...
@@ -211,7 +225,8 @@ The project was deployed to GitHub Pages using the following steps...
 3. On the Settings page, locate the "Pages" link on the left side, under the "Code and Automation" category. 
 4. Under "Source", click the dropdown called "None" and select "Master Branch" or "Main".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://farrukh-ahm.github.io/Portfolio-Project-1/) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site
+[link](https://farrukh-ahm.github.io/Portfolio-Project-1/) in the "GitHub Pages" section.
 
 ## Credits
 
@@ -222,7 +237,8 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code
 
-The following code block used from [Stack Overflow](https://stackoverflow.com), answer given to following question on the given link:<br>
+The following code block used from [Stack Overflow](https://stackoverflow.com), answer given to following question
+on the given link:<br>
 [How to make body background image transparent in css? (sirdn4)](https://stackoverflow.com/questions/42312909/how-to-make-body-background-image-transparent-in-css/42313865)
 
 ```
