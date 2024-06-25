@@ -5,27 +5,27 @@
 A website about Imran Khan was driven by various motivations:
 
 #####   Educational Resource: 
-I aim to provide comprehensive information and insights about 
-Imran Khan's life, career, and political impact, serving as a valuable resource for those 
-interested in his legacy.
+-   I aim to provide comprehensive information and insights about 
+    Imran Khan's life, career, and political impact, serving as a valuable resource for those 
+    interested in his legacy.
 
 #####   Political Engagement:
-I want to foster political discussion and engagement by 
-highlighting Imran Khan's policies, achievements, and contributions to Pakistan's socio-
-political landscape.
+-   I want to foster political discussion and engagement by 
+    highlighting Imran Khan's policies, achievements, and contributions to Pakistan's socio-
+    political landscape.
 
 #####   Fan Base Connection:
-As a supporter, you wish to connect with like-minded individuals 
-and build a community that shares admiration for Imran Khan's leadership and vision.
+-   As a supporter, you wish to connect with like-minded individuals 
+    and build a community that shares admiration for Imran Khan's leadership and vision.
 
 #####   Historical Documentation:
-The website serves to document and preserve significant events 
-and milestones from Imran Khan's life and career, offering an archive for future reference.
+-   The website serves to document and preserve significant events 
+    and milestones from Imran Khan's life and career, offering an archive for future reference.
 
 #####   Public Awareness:
-I aim to raise awareness and educate the public on Imran Khan's 
-initiatives and the broader implications of his work, promoting a better understanding of 
-his role in national and international contexts.
+-   I aim to raise awareness and educate the public on Imran Khan's 
+    initiatives and the broader implications of his work, promoting a better understanding of 
+    his role in national and international contexts.
 
 ![Image of Responsive Website in different devices](./assets/readme/multidevice-view.jpg)
 
