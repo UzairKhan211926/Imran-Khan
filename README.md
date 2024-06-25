@@ -34,33 +34,33 @@ his role in national and international contexts.
 ### UI/UX:
 
 #### 1. Colour Scheme
-- This website has a contant color themes running through all the links. e.g., in
+-   This website has a contant color themes running through all the links. e.g., in
 the maine content: lightblue and silver. Ref block is grey, background is white throughout.
-- Font for body is Arial with fall back on sans-serif.
+-   Font for body is Arial with fall back on sans-serif.
 
 #### 2. Typography
 
 ##### - Readability and Accessibility:
-Arial is a widely recognized and legible font. It ensures that the content on the website
+-   Arial is a widely recognized and legible font. It ensures that the content on the website
 is easy to read for most users, including those with visual impairments or using different
 devices.
 
 ##### - Consistency and Universality:
-Arial is a default font available on most operating systems and browsers. This ensures
+-   Arial is a default font available on most operating systems and browsers. This ensures
 consistent rendering across different platforms, minimizing the risk of font rendering
 issues that might arise with less universally supported fonts.
 
 ##### - Professional and Modern Appearance:
-Arial is a sans-serif font known for its clean and modern appearance. It conveys a professional
+-   Arial is a sans-serif font known for its clean and modern appearance. It conveys a professional
 look suitable for a website dedicated to a public figure like Imran Khan.
     
 ##### - Fallback for Compatibility:
-Using "sans-serif" as a fallback ensures that if Arial is not available on a user's system, the
+-   Using "sans-serif" as a fallback ensures that if Arial is not available on a user's system, the
 browser will default to another sans-serif font that is available. This maintains the overall
 design integrity and readability of the website.
 
 ##### - Load Time Considerations:
-Arial is a commonly used font and may already be cached in users' browsers, potentially reducing
+-   Arial is a commonly used font and may already be cached in users' browsers, potentially reducing
 load times compared to less common or custom fonts.
 
 In summary, choosing Arial with a fallback on sans-serif fonts strikes a balance between 
@@ -70,11 +70,11 @@ for a website about Imran Khan or any similar public figure.
 ### Existing Features:
 
 #### 1. Navigation Bar 
-    - Along with the name of the website, the navigation bar includes the links to all the pages
-    of the website i.e., Home, PTI, SKCMH & Namal College.
-    - Through the navigation bar, the user can easily move around and take full advantage of all
-    the features provided by the website. For user feasibility, I also fixed the nav bar so users
-    can switch between the links without the need to scroll up to the top everytime.
+-   Along with the name of the website, the navigation bar includes the links to all the pages
+of the website i.e., Home, PTI, SKCMH & Namal College.
+-   Through the navigation bar, the user can easily move around and take full advantage of all
+the features provided by the website. For user feasibility, I also fixed the nav bar so users
+can switch between the links without the need to scroll up to the top everytime.
 
 <br>
 <img src="./assets/readme/navbar.jpg" alt="Image of the Navigation Bar">
