@@ -169,10 +169,6 @@ I have also added 3 maps to pin point the location of institutees founded by Imr
 
 ####    5. Footer Section
 -   It is dispalyed on all the pages of the website.
-        
-<br>
-<img src="./assets/images-readme-file/footer.JPG">
-<br>
 
 ### Languages Used
 
@@ -219,12 +215,12 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
-* ### Media & Content
+### Media & Content
 -   All the images were download from google.
 -   All the videos were download from YT.
 -   All the text within main body was generated using ChatGPT.
 
-* ### Code
+### Code
 
 The following code block used from [Stack Overflow](https://stackoverflow.com), answer given to following question on the given link:<br>
 [How to make body background image transparent in css? (sirdn4)](https://stackoverflow.com/questions/42312909/how-to-make-body-background-image-transparent-in-css/42313865)
