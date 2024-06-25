@@ -96,11 +96,11 @@ name.
 #####   1.  Main content on Home page:
 Here are some key points that a visitor would likely gather:
 
-    -   Personal Life.
-    -   Early Life and Education.
-    -   Cricketing Career.
-    -   Philanthropy.
-    -   Political Career.
+-   Personal Life.
+-   Early Life and Education.
+-   Cricketing Career.
+-   Philanthropy.
+-   Political Career.
 
 <br>
 
@@ -115,7 +115,7 @@ The home page does not contain a map due to privacy.
 <br>
 
 #####   2.  Main content on PTI page:
- At first you will notice a PTI banner within the main content taken from it's original homepage.
+At first you will notice a PTI banner within the main content taken from it's original homepage.
 
 On PTI page, it presents a comprehensive overview of PTI, covering its founding principles, key
 milestones, leadership, policies, and challenges. It highlights PTI's vision for a corruption-free
