@@ -190,14 +190,9 @@ I have also added 3 maps to pin point the location of institutees founded by Imr
     - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
-The website has been tested on different devices and screen sizes, eg. a 21.5inch monitor, 15inch laptop screen,
-iPad and Android devices. The website runs smoothly and generates appropriate results without any issues. The
-hover effect on information cards work properly on the computer, the links take you to appropriate pages and the
-submit button on the form page takes you to the form-dump page with the proper message for submission displayed.
-The social media links in the footer open the associated pages in new tab, as intended.
+The website has been thoroughly tested across a variety of devices and screen sizes, including a 21.5-inch monitor, a 15-inch laptop screen, an iPad, and several Android devices. It performs smoothly and generates accurate results on all these devices without any issues. On a computer, the hover effect on the information cards functions as expected, the links navigate to the correct pages, and the submit button on the form page redirects to the form-dump page, where the appropriate submission message is displayed. Additionally, the social media links in the footer successfully open their respective pages in a new tab.
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure
-there were no syntax errors in the project.
+To ensure the absence of syntax errors, the website was validated using the W3C Markup Validator and the W3C CSS Validator Services for every page of the project.
 
 -   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
 -   [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2F)
@@ -220,13 +215,13 @@ after extensive testing.
 ## Deployment
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/farrukh-ahm/Portfolio-Project-1.git)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/UzairKhan211926/Imran-Khan)
 2. At the top of the Repository (not the top of the page), locate the "Settings" Button on the menu.
 3. On the Settings page, locate the "Pages" link on the left side, under the "Code and Automation" category. 
 4. Under "Source", click the dropdown called "None" and select "Master Branch" or "Main".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site
-[link](https://farrukh-ahm.github.io/Portfolio-Project-1/) in the "GitHub Pages" section.
+[link](https://uzairkhan211926.github.io/Imran-Khan/) in the "GitHub Pages" section.
 
 ## Credits
 
@@ -234,26 +229,6 @@ The project was deployed to GitHub Pages using the following steps...
 -   All the images were download from google.
 -   All the videos were download from YT.
 -   All the text within main body was generated using ChatGPT.
-
-### Code
-
-The following code block used from [Stack Overflow](https://stackoverflow.com), answer given to following question
-on the given link:<br>
-[How to make body background image transparent in css? (sirdn4)](https://stackoverflow.com/questions/42312909/how-to-make-body-background-image-transparent-in-css/42313865)
-
-```
-body::after {
-  background: url(“</address>”);
-  content: "";
-  opacity: 0.9;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  z-index: -1;   
-}
-```
 
 ## Acknowledgements
 
