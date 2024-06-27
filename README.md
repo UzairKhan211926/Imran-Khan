@@ -206,13 +206,14 @@ However, due to lack of time available, I decided to remove the videos from the 
 
 Below you can see the code
 
-### HTML Code:
+#### HTML Code:
 
     <section class="video.left">
-      <video src="./assets/videos/imran.mp4" title="Imran Khan Video" width="350px" controls> </video>
+      <video src="./assets/videos/imran.mp4" title="Imran Khan Video" width="350px" controls>
+      </video>
     </section>
 
-### CSS:
+#### CSS:
 
     .video{
     margin: 20px auto;
