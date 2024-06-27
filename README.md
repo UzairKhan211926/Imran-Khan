@@ -201,7 +201,7 @@ To ensure the absence of syntax errors, the website was validated using the W3C 
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.<br>
 
-![Lighthouse Score](./assets/images-readme-file/Light-house.JPG)
+![Lighthouse Score](./assets/readme/lighthouse.jpg)
 
 ## Known Bugs
 Some iPhone devices are having trouble displaying buttons correctly on a specific form page. This issue seems to
