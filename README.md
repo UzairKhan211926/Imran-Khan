@@ -27,7 +27,7 @@ A website about Imran Khan was driven by various motivations:
     initiatives and the broader implications of his work, promoting a better understanding of 
     his role in national and international contexts.
 
-![Image of Responsive Website in different devices](./assets/readme/multidevice-view.jpg)
+![Image of Responsive Website in different devices](./assets/readme/multidevice%20view.jpg)
 
 ##  Features:
 
@@ -191,8 +191,6 @@ To ensure the absence of syntax errors, the website was validated using the W3C 
 
 -   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
 -   [Home Page Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuzairkhan211926.github.io%2FImran-Khan%2Findex.html)
--   [Namal Page Results]()
--   [PTI Page Results]()
 -   [SKCMH Page Results]()
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
