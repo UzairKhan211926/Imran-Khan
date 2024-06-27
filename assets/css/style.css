@@ -17,7 +17,7 @@ body {
 }
 
 .main-content >img{
-    max-width: 100%;
+    max-width: 1000%;
 }
 
 /*stylings for h1/h2 inside main content*/
