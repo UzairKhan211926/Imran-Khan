@@ -24,12 +24,11 @@ body {
 /*stylings for h1/h2 inside main content*/
 .main-content >h1{
     color: #314f63;
-    text-decoration: underline;
     text-align: center;
 }
 .main-content >h2{
     color: black;
-    text-decoration: underline;  
+    text-decoration: underline;
 }
 
 h1{
@@ -80,7 +79,6 @@ section {
 .background-imran {
     background-color: silver;
     padding: 20px;
-    max-width: auto;
     text-align: center;
     border: #000000;
     border-style:groove;
@@ -89,17 +87,14 @@ section {
 /*background highlgihts for text in maine content*/
 .background-lightblue {
     background-color: #b7e1fc;
-    padding: auto;
 }
 
 .background-silver {
     background-color: #e2e2e2;
-    padding: auto;
 }
 
 .background-ref {
     background-color: #e2e2e2;
-    padding: auto;
 }
 
 /*fixing footer and etc*/

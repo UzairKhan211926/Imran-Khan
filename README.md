@@ -195,9 +195,9 @@ The website has been thoroughly tested across a variety of devices and screen si
 To ensure the absence of syntax errors, the website was validated using the W3C Markup Validator and the W3C CSS Validator Services for every page of the project.
 
 -   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
--   [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2F)
+-   [Results](https://prnt.sc/PT_6zc72Jp2k)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
--   [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffarrukh-ahm.github.io%2FPortfolio-Project-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+-   [Results](https://prnt.sc/EPyW3F2hBths)
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.<br>
 
