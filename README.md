@@ -212,7 +212,7 @@ HTML Code:
       <video src="./assets/videos/imran.mp4" title="Imran Khan Video" width="350px" controls> </video>
     </section>
 
-    CSS:
+CSS:
 
     .video{
     margin: 20px auto;
