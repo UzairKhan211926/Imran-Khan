@@ -1,7 +1,3 @@
-Certainly! Here is the revised version with the typos corrected:
-
----
-
 # Imran Khan
 
 [View The Live Project Here](https://uzairkhan211926.github.io/Imran-Khan/)
@@ -134,14 +130,12 @@ I have also added 3 maps to pinpoint the location of institutions founded by Imr
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used
+### Programs Used
 
 - [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 - [GitHub:](https://github.com/)
     - GitHub is used to store the project's code after being pushed from Git.
-- [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 The website has been thoroughly tested across a variety of devices and screen sizes, including a 21.5-inch monitor, a 15-inch laptop screen, an iPad, and several Android devices. It performs smoothly and generates accurate results on all these devices without any issues. On a computer, the hover effect on the information cards functions as expected, the links navigate to the correct pages, and the submit button on the form page redirects to the form-dump page, where the appropriate submission message is displayed. Additionally, the social media links in the footer successfully open their respective pages in a new tab.
