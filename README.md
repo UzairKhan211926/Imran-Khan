@@ -204,15 +204,15 @@ Some bugs I came accross during web designing. I added a video on all the differ
 with videos, they were overlapping the main content. The issue could be fixed with further investigation.
 However, due to lack of time available, I decided to remove the videos from the final draft.
 
-below you can see the code
+Below you can see the code
 
-HTML Code:
+### HTML Code:
 
     <section class="video.left">
       <video src="./assets/videos/imran.mp4" title="Imran Khan Video" width="350px" controls> </video>
     </section>
 
-CSS:
+### CSS:
 
     .video{
     margin: 20px auto;
