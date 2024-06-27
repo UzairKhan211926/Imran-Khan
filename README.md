@@ -190,7 +190,11 @@ The website has been thoroughly tested across a variety of devices and screen si
 To ensure the absence of syntax errors, the website was validated using the W3C Markup Validator and the W3C CSS Validator Services for every page of the project.
 
 -   [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
--   [Results](https://prnt.sc/PT_6zc72Jp2k)
+-   [Home Page Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuzairkhan211926.github.io%2FImran-Khan%2Findex.html)
+-   [Namal Page Results]()
+-   [PTI Page Results]()
+-   [SKCMH Page Results]()
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 -   [Results](https://prnt.sc/EPyW3F2hBths)
 
