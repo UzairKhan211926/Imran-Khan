@@ -177,11 +177,6 @@ I have also added 3 maps to pin point the location of institutees founded by Imr
 
 ### Frameworks, Libraries & Programs Used
 
--   [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Quintessential', 'Roboto Condensed' and 'Zen Kaku Gothic Antique'
-    font into the style.css file which is used on all pages throughout the project.
--   [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 -   [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/)
@@ -203,14 +198,30 @@ The website was also tested through Lighthouse on Chrome for its Accessibility S
 
 ![Lighthouse Score](./assets/readme/lighthouse.jpg)
 
-## Known Bugs
-Some iPhone devices are having trouble displaying buttons correctly on a specific form page. This issue seems to
-be linked to the higher pixel density on iPhones. Even though adjustments were made using additional media queries
-for different screen widths and WebKit device pixel ratios, the problem persists. Interestingly, the display looks
-fine when tested on Chrome and Firefox's developer tools using simulated mobile screens, including those mimicking
-iPhones. However, once the website is deployed and accessed on an actual iPhone, the issue arises again. This
-discrepancy means that the problem needs more investigation. Other than this, no other bugs have been identified
-after extensive testing.
+## Bugs
+
+Some bugs I came accross during web designing. I added a video on all the different links. The issue
+with videos, they were overlapping the main content. The issue could be fixed with further investigation.
+However, due to lack of time available, I decided to remove the videos from the final draft.
+
+below you can see the code
+
+HTML Code:
+
+    <section class="video.left">
+      <video src="./assets/videos/imran.mp4" title="Imran Khan Video" width="350px" controls> </video>
+    </section>
+
+    CSS:
+
+    .video{
+    margin: 20px auto;
+    padding: 20px;
+    position: fixed;
+    background-color: black;
+    max-width: auto;
+    border-style:groove;
+}
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps...
@@ -227,7 +238,6 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media & Content
 -   All the images were download from google.
--   All the videos were download from YT.
 -   All the text within main body was generated using ChatGPT.
 
 ## Acknowledgements

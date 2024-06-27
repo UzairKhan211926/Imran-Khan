@@ -107,14 +107,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
-/*sizing and fixing video on left side of maine content
-.video{
-    margin: 20px auto;
-    padding: 20px;
-    position: fixed;
-    background-color: black;
-    max-width: auto;
-    border-style:groove;
-}
-*/
